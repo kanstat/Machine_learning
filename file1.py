@@ -5,3 +5,4 @@ sum = x+y+z
 
 print (sum)
 #hii  i am sum
+#changes added on github. 
